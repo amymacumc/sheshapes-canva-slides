@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none" >
+<defs><linearGradient id="gradient-blob-fill" x1="118" y1="72" x2="678" y2="533"><stop stop-color="#C33EE3"/><stop offset=".52" stop-color="#7048C8"/><stop offset="1" stop-color="#42A8F5"/></linearGradient></defs><g id="background-decoration"><path d="M151 128c109-98 256-82 333-30 95 64 192 35 240 152 47 115-16 230-112 285-105 60-198-1-298 22-127 29-245-50-247-177-2-110 20-194 84-252Z" fill="url(#gradient-blob-fill)" opacity=".88"/></g>
+</svg>

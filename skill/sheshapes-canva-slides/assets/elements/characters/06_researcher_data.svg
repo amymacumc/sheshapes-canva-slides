@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none" aria-label="Researcher Data">
+<g id="background-decoration"><rect x="97" y="122" width="830" height="718" rx="86" fill="#F8EEF0" opacity=".62"/></g>
+      <g id="character"><g id="researcher" transform="translate(716 250) scale(0.72)">
+    <g id="researcher-legs">
+      <path d="M-53 391l-14 221" stroke="#25232A" stroke-width="58"/><path d="M53 391l23 221" stroke="#25232A" stroke-width="58"/>
+      <path d="M-72 616h76M70 616h82" stroke="#25232A" stroke-width="28" stroke-linecap="round"/>
+    </g>
+    <g id="researcher-body">
+      <path d="M-77 151Q0 112 77 151L92 407H-92L-77 151Z" fill="#7048C8"/>
+      <path d="M-27 115v31M27 115v31" stroke="#C9825F" stroke-width="24"/>
+      <g stroke-linecap="round" stroke-linejoin="round"><path d="M-69 170c-40 45-47 93-35 137" stroke="#C9825F" stroke-width="34"/><circle cx="-110" cy="309" r="18" fill="#C9825F"/>
+      <path d="M69 170c62-47 112-76 167-89" stroke="#C9825F" stroke-width="34"/><circle cx="243" cy="80" r="18" fill="#C9825F"/></g>
+    </g>
+    <g id="researcher-head" transform="translate(0 46) scale(1)">
+    <circle cx="35" cy="-75" r="31" fill="#3B2925"/><path d="M-62 4c-6-55 25-88 68-88 48 0 76 38 66 96l-12 48H-51L-62 4Z" fill="#3B2925"/>
+      <path d="M-48-27c19-44 66-51 103-12-25 1-47-9-64-28-8 18-20 31-39 40Z" fill="#3B2925"/>
+    <ellipse cx="2" cy="1" rx="51" ry="63" fill="#C9825F"/>
+    <path d="M-49-17c15-48 64-59 103-20-29 0-54-12-73-31-5 21-15 38-30 51Z" fill="#3B2925"/>
+    <g fill="#25232A"><circle cx="-18" cy="5" r="4.5"/><circle cx="24" cy="5" r="4.5"/></g>
+    <path d="M-12 30c10 9 22 9 32 0" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-38 0c9-7 18-7 27-2M14-2c9-5 18-4 26 2" stroke="#3B2925" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  </g></g>
+      <g id="device"><rect x="136" y="203" width="455" height="408" rx="32" fill="#FFFFFF" stroke="#B9BCEB" stroke-width="12"/><path d="M201 522V416M282 522V350M363 522V300M444 522V381M525 522V257" stroke="#42A8F5" stroke-width="30" stroke-linecap="round"/><path d="M184 553h355" stroke="#4C4C4C" stroke-width="10" stroke-linecap="round"/><path d="M688 501l95 35-29 80-95-35 29-80Z" fill="#FAF8F1" stroke="#4C4C4C" stroke-width="8"/><path d="M686 545l52 19M677 570l39 14" stroke="#B9BCEB" stroke-width="8" stroke-linecap="round"/></g>
+      <g id="accent-elements"><ellipse cx="271" cy="716" rx="92" ry="35" fill="#7048C8"/><path d="M179 682v67c0 20 41 36 92 36s92-16 92-36v-67" stroke="#7048C8" stroke-width="12"/><ellipse cx="271" cy="682" rx="92" ry="35" fill="#E3D8F1" stroke="#7048C8" stroke-width="12"/></g>
+</svg>

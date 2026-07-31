@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none" aria-label="Product Manager">
+<g id="background-decoration"><circle cx="212" cy="218" r="102" fill="#F8EEF0"/><ellipse cx="511" cy="879" rx="377" ry="43" fill="#E3D8F1"/></g>
+      <g id="character"><g id="product-manager" transform="translate(315 202) scale(0.82)">
+    <g id="product-manager-legs">
+      <path d="M-53 391l-14 221" stroke="#25232A" stroke-width="58"/><path d="M53 391l23 221" stroke="#25232A" stroke-width="58"/>
+      <path d="M-72 616h76M70 616h82" stroke="#25232A" stroke-width="28" stroke-linecap="round"/>
+    </g>
+    <g id="product-manager-body">
+      <path d="M-81 151Q0 112 81 151L92 407H-92L-81 151Z" fill="#C33EE3"/>
+      <path d="M-27 115v31M27 115v31" stroke="#DFA47F" stroke-width="24"/>
+      <g stroke-linecap="round" stroke-linejoin="round"><path d="M-73 169c-49 45-34 100 13 131" stroke="#DFA47F" stroke-width="34"/><circle cx="-77" cy="299" r="18" fill="#DFA47F"/>
+      <path d="M73 169c47 47 32 101-15 132" stroke="#DFA47F" stroke-width="34"/><circle cx="75" cy="300" r="18" fill="#DFA47F"/></g>
+    </g>
+    <g id="product-manager-head" transform="translate(0 46) scale(1)">
+    <path d="M-66 8C-68-54-31-86 9-84c47 2 70 40 62 98l-16 56H-52L-66 8Z" fill="#734B36"/>
+      <path d="M-51-18c16-51 73-62 105-13-27-2-52-14-69-34-4 21-17 38-36 47Z" fill="#734B36"/>
+    <ellipse cx="2" cy="1" rx="51" ry="63" fill="#DFA47F"/>
+    <path d="M-49-17c15-48 64-59 103-20-29 0-54-12-73-31-5 21-15 38-30 51Z" fill="#734B36"/>
+    <g fill="#25232A"><circle cx="-18" cy="5" r="4.5"/><circle cx="24" cy="5" r="4.5"/></g>
+    <path d="M-12 30c10 9 22 9 32 0" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-38 0c9-7 18-7 27-2M14-2c9-5 18-4 26 2" stroke="#734B36" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  </g></g>
+      <g id="device"><rect x="241" y="422" width="151" height="203" rx="18" fill="#25232A"/><rect x="257" y="440" width="119" height="161" rx="9" fill="#FAF8F1"/><path d="M285 480h65M285 517h44M285 554h75" stroke="#42A8F5" stroke-width="10" stroke-linecap="round"/></g>
+      <g id="accent-elements"><rect x="545" y="244" width="354" height="386" rx="34" fill="#FFFFFF" stroke="#B9BCEB" stroke-width="12"/><path d="M608 337h230" stroke="#E3D8F1" stroke-width="12" stroke-linecap="round"/><g fill="#7048C8"><circle cx="625" cy="435" r="26"/><circle cx="722" cy="435" r="26"/><circle cx="819" cy="435" r="26"/></g><path d="M651 435h45M748 435h45" stroke="#42A8F5" stroke-width="10" stroke-linecap="round"/><path d="M596 518h84M691 518h84M786 518h84" stroke="#B9BCEB" stroke-width="18" stroke-linecap="round"/></g>
+</svg>

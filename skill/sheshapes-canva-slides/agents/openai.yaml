@@ -1,0 +1,6 @@
+interface:
+  display_name: "SheShapes Canva Slides"
+  short_description: "Create on-brand Canva slides from any content"
+  brand_color: "#7048C8"
+  default_prompt: "Use $sheshapes-canva-slides to turn my content into a polished Canva presentation."
+

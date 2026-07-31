@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none" aria-label="Student Learning">
+<g id="background-decoration"><circle cx="175" cy="204" r="98" fill="#E3D8F1"/><ellipse cx="507" cy="864" rx="356" ry="44" fill="#F8EEF0"/></g>
+      <g id="character"><g id="student" transform="translate(327 254) scale(0.72 0.72)">
+    <g id="student-legs" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-48 384c-37 64-69 127-90 194" stroke="#7048C8" stroke-width="58"/>
+      <path d="M51 384c83 28 124 89 153 154" stroke="#7048C8" stroke-width="58"/>
+      <path d="M-146 584h77M190 545h79" stroke="#25232A" stroke-width="28"/>
+    </g>
+    <g id="student-body">
+      <path d="M-72.5 150Q0 115 72.5 150l40 238H-101L-72.5 150Z" fill="#C33EE3"/>
+      <path d="M-27 115v31M27 115v31" stroke="#F2C7A5" stroke-width="24"/>
+      <path d="M-64.5 172c-49 46-54 98-21 145" stroke="#F2C7A5" stroke-width="34" stroke-linecap="round"/>
+      <path d="M64.5 171c49 28 70 69 74 113" stroke="#F2C7A5" stroke-width="34" stroke-linecap="round"/>
+      <circle cx="-84.5" cy="320" r="18" fill="#F2C7A5"/><circle cx="138.5" cy="286" r="18" fill="#F2C7A5"/>
+    </g>
+    <g id="student-head" transform="translate(0 46) scale(1)">
+    <path d="M-66 8C-68-54-31-86 9-84c47 2 70 40 62 98l-16 56H-52L-66 8Z" fill="#5A382B"/>
+      <path d="M-51-18c16-51 73-62 105-13-27-2-52-14-69-34-4 21-17 38-36 47Z" fill="#5A382B"/>
+    <ellipse cx="2" cy="1" rx="51" ry="63" fill="#F2C7A5"/>
+    <path d="M-49-17c15-48 64-59 103-20-29 0-54-12-73-31-5 21-15 38-30 51Z" fill="#5A382B"/>
+    <g fill="#25232A"><circle cx="-18" cy="5" r="4.5"/><circle cx="24" cy="5" r="4.5"/></g>
+    <path d="M-12 30c10 9 22 9 32 0" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-38 0c9-7 18-7 27-2M14-2c9-5 18-4 26 2" stroke="#5A382B" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  </g></g>
+      <g id="device"><rect x="553" y="205" width="336" height="250" rx="26" fill="#25232A"/><rect x="574" y="226" width="294" height="208" rx="11" fill="#FAF8F1"/><circle cx="721" cy="320" r="53" fill="#B9BCEB"/><path d="M705 288l54 32-54 32v-64Z" fill="#7048C8"/><path d="M553 455h336" stroke="#4C4C4C" stroke-width="18" stroke-linecap="round"/><path d="M272 604h268l-25 174H247l25-174Z" fill="#FFFFFF" stroke="#B9BCEB" stroke-width="10"/><path d="M392 606v170M301 653h67M301 694h67M417 653h67M417 694h67" stroke="#42A8F5" stroke-width="8" stroke-linecap="round"/></g>
+      <g id="accent-elements"><g stroke="#62DCE8" stroke-width="8" stroke-linecap="round">
+  <path d="M803 546v56M775 574h56"/><path d="M851 562v24M839 574h24"/>
+</g><path d="M738 608l23-48 23 48 53 8-38 37 9 52-47-25-47 25 9-52-38-37 53-8Z" fill="#42A8F5"/></g>
+</svg>

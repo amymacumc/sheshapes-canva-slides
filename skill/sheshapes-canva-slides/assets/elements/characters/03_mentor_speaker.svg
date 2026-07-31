@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none" aria-label="Mentor Speaker">
+<g id="background-decoration"><path d="M143 809C218 656 206 283 394 177c164-92 355-2 479 96" stroke="#E3D8F1" stroke-width="42" stroke-linecap="round"/><circle cx="812" cy="222" r="76" fill="#F8EEF0"/></g>
+      <g id="character"><g id="mentor" transform="translate(491 175) scale(0.96)">
+    <g id="mentor-legs">
+      <path d="M-53 391l-14 221" stroke="#7048C8" stroke-width="58"/><path d="M53 391l23 221" stroke="#7048C8" stroke-width="58"/>
+      <path d="M-72 616h76M70 616h82" stroke="#25232A" stroke-width="28" stroke-linecap="round"/>
+    </g>
+    <g id="mentor-body">
+      <path d="M-83 151Q0 112 83 151L92 407H-92L-83 151Z" fill="#B9BCEB"/>
+      <path d="M-27 115v31M27 115v31" stroke="#9B6246" stroke-width="24"/>
+      <g stroke-linecap="round" stroke-linejoin="round"><path d="M-75 170c-63 38-91 73-123 111" stroke="#9B6246" stroke-width="34"/><circle cx="-203" cy="283" r="18" fill="#9B6246"/>
+      <path d="M75 170c58 12 91-7 129-39" stroke="#9B6246" stroke-width="34"/><circle cx="210" cy="130" r="18" fill="#9B6246"/></g>
+    </g>
+    <g id="mentor-head" transform="translate(0 46) scale(1)">
+    <circle cx="35" cy="-75" r="31" fill="#25232A"/><path d="M-62 4c-6-55 25-88 68-88 48 0 76 38 66 96l-12 48H-51L-62 4Z" fill="#25232A"/>
+      <path d="M-48-27c19-44 66-51 103-12-25 1-47-9-64-28-8 18-20 31-39 40Z" fill="#25232A"/>
+    <ellipse cx="2" cy="1" rx="51" ry="63" fill="#9B6246"/>
+    <path d="M-49-17c15-48 64-59 103-20-29 0-54-12-73-31-5 21-15 38-30 51Z" fill="#25232A"/>
+    <g fill="#25232A"><circle cx="-18" cy="5" r="4.5"/><circle cx="24" cy="5" r="4.5"/></g>
+    <path d="M-12 30c10 9 22 9 32 0" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-38 0c9-7 18-7 27-2M14-2c9-5 18-4 26 2" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  </g><path d="M413 321l34-14 28 101-36 10-26-97Z" fill="#FFFFFF" opacity=".72"/></g>
+      <g id="device"><rect x="638" y="355" width="34" height="160" rx="17" fill="#25232A" transform="rotate(-24 638 355)"/><ellipse cx="628" cy="344" rx="27" ry="35" fill="#7048C8" transform="rotate(-24 628 344)"/></g>
+      <g id="accent-elements"><g stroke="#42A8F5" stroke-width="8" stroke-linecap="round">
+  <path d="M270 247v56M242 275h56"/><path d="M318 263v24M306 275h24"/>
+</g><path d="M731 352c47 24 75 59 88 106M750 316c61 29 99 78 115 137" stroke="#42A8F5" stroke-width="9" stroke-linecap="round"/></g>
+</svg>

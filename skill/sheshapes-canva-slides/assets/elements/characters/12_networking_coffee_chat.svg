@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none" aria-label="Networking Coffee Chat">
+<g id="background-decoration"><path d="M107 738c127 122 276 165 448 130 151-31 264-113 361-242" stroke="#E3D8F1" stroke-width="52" stroke-linecap="round"/><circle cx="507" cy="207" r="81" fill="#F8EEF0"/></g>
+      <g id="characters"><g id="networker-left" transform="translate(319 237) scale(0.75)">
+    <g id="networker-left-legs">
+      <path d="M-53 391l-14 221" stroke="#25232A" stroke-width="58"/><path d="M53 391l23 221" stroke="#25232A" stroke-width="58"/>
+      <path d="M-72 616h76M70 616h82" stroke="#25232A" stroke-width="28" stroke-linecap="round"/>
+    </g>
+    <g id="networker-left-body">
+      <path d="M-78 151Q0 112 78 151L92 407H-92L-78 151Z" fill="#42A8F5"/>
+      <path d="M-27 115v31M27 115v31" stroke="#F2C7A5" stroke-width="24"/>
+      <g stroke-linecap="round" stroke-linejoin="round"><path d="M-70 171c-35 50-39 105-16 145" stroke="#F2C7A5" stroke-width="34"/><circle cx="-98" cy="318" r="18" fill="#F2C7A5"/>
+      <path d="M70 171c26 30 23 72-1 101" stroke="#F2C7A5" stroke-width="34"/><circle cx="75" cy="274" r="18" fill="#F2C7A5"/></g>
+    </g>
+    <g id="networker-left-head" transform="translate(0 46) scale(1)">
+    <path d="M-69 4c-5-55 26-88 70-88 50 0 78 37 72 96l8 101H42L30 45H-29l-13 68h-37L-69 4Z" fill="#5A382B"/>
+      <path d="M-53-24c17-45 69-54 107-13-28 2-53-9-72-29-6 20-18 34-35 42Z" fill="#5A382B"/>
+    <ellipse cx="2" cy="1" rx="51" ry="63" fill="#F2C7A5"/>
+    <path d="M-49-17c15-48 64-59 103-20-29 0-54-12-73-31-5 21-15 38-30 51Z" fill="#5A382B"/>
+    <g fill="#25232A"><circle cx="-18" cy="5" r="4.5"/><circle cx="24" cy="5" r="4.5"/></g>
+    <path d="M-12 30c10 9 22 9 32 0" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-38 0c9-7 18-7 27-2M14-2c9-5 18-4 26 2" stroke="#5A382B" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  </g><g id="networker-right" transform="translate(706 237) scale(0.75)">
+    <g id="networker-right-legs">
+      <path d="M-53 391l-14 221" stroke="#25232A" stroke-width="58"/><path d="M53 391l23 221" stroke="#25232A" stroke-width="58"/>
+      <path d="M-72 616h76M70 616h82" stroke="#25232A" stroke-width="28" stroke-linecap="round"/>
+    </g>
+    <g id="networker-right-body">
+      <path d="M-87 151Q0 112 87 151L92 407H-92L-87 151Z" fill="#7048C8"/>
+      <path d="M-27 115v31M27 115v31" stroke="#9B6246" stroke-width="24"/>
+      <g stroke-linecap="round" stroke-linejoin="round"><path d="M-79 171c-35 50-39 105-16 145" stroke="#9B6246" stroke-width="34"/><circle cx="-107" cy="318" r="18" fill="#9B6246"/>
+      <path d="M79 171c26 30 23 72-1 101" stroke="#9B6246" stroke-width="34"/><circle cx="84" cy="274" r="18" fill="#9B6246"/></g>
+    </g>
+    <g id="networker-right-head" transform="translate(0 46) scale(1)">
+    <circle cx="35" cy="-75" r="31" fill="#25232A"/><path d="M-62 4c-6-55 25-88 68-88 48 0 76 38 66 96l-12 48H-51L-62 4Z" fill="#25232A"/>
+      <path d="M-48-27c19-44 66-51 103-12-25 1-47-9-64-28-8 18-20 31-39 40Z" fill="#25232A"/>
+    <ellipse cx="2" cy="1" rx="51" ry="63" fill="#9B6246"/>
+    <path d="M-49-17c15-48 64-59 103-20-29 0-54-12-73-31-5 21-15 38-30 51Z" fill="#25232A"/>
+    <g fill="#25232A"><circle cx="-18" cy="5" r="4.5"/><circle cx="24" cy="5" r="4.5"/></g>
+    <path d="M-12 30c10 9 22 9 32 0" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-38 0c9-7 18-7 27-2M14-2c9-5 18-4 26 2" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  </g></g>
+      <g id="device"><g transform="translate(372 452)"><path d="M-31 0h64v78c0 21-14 35-32 35s-32-14-32-35V0Z" fill="#FAF8F1" stroke="#7048C8" stroke-width="9"/><path d="M33 22h13c30 0 30 47 0 47H34" stroke="#7048C8" stroke-width="9"/></g><g transform="translate(649 452)"><path d="M-31 0h64v78c0 21-14 35-32 35s-32-14-32-35V0Z" fill="#FAF8F1" stroke="#42A8F5" stroke-width="9"/><path d="M33 22h13c30 0 30 47 0 47H34" stroke="#42A8F5" stroke-width="9"/></g></g>
+      <g id="accent-elements"><path d="M436 161h153v91h-36l7 34-35-34h-89v-91Z" fill="#FFFFFF" stroke="#C33EE3" stroke-width="8" stroke-linejoin="round"/><path d="M466 198h93M466 221h62" stroke="#B9BCEB" stroke-width="8" stroke-linecap="round"/></g>
+</svg>

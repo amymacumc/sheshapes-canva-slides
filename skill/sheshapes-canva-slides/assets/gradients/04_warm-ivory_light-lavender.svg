@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" preserveAspectRatio="none">
+  <title>SheShapes AI Gradient 04 — Warm Ivory, Light Lavender</title>
+  <desc>Approved light 16:9 background from slide 04.</desc>
+  <defs>
+    <linearGradient id="background" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FAF8F1"/>
+      <stop offset="100%" stop-color="#E3D8F1"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#background)"/>
+</svg>

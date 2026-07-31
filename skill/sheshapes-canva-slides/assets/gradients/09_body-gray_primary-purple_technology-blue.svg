@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" preserveAspectRatio="none">
+  <title>SheShapes AI Gradient 09 — Body Gray, Primary Purple, Technology Blue</title>
+  <desc>Approved dark 16:9 background from slide 10.</desc>
+  <defs>
+    <linearGradient id="background" x1="0%" y1="15%" x2="100%" y2="85%">
+      <stop offset="0%" stop-color="#4C4C4C"/>
+      <stop offset="62%" stop-color="#7048C8"/>
+      <stop offset="100%" stop-color="#42A8F5"/>
+    </linearGradient>
+  </defs>
+  <rect width="1920" height="1080" fill="url(#background)"/>
+</svg>

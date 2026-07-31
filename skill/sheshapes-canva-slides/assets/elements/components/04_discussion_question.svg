@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" fill="none" aria-label="Discussion Question">
+<g id="background-decoration"><rect x="40" y="40" width="1120" height="620" rx="52" fill="#7048C8"/><path d="M918 40c97 79 160 183 189 312 25 111 10 213-43 308h96V40H918Z" fill="#C33EE3" opacity=".55"/></g><g id="editable-content" font-family="Inter, Arial, sans-serif"><text x="112" y="175" font-size="32" font-weight="700" fill="#62DCE8">DISCUSSION QUESTION</text><text x="112" y="306" font-size="66" font-weight="700" fill="#FFFFFF">What question would</text><text x="112" y="389" font-size="66" font-weight="700" fill="#FFFFFF">you like to explore?</text><path d="M112 487h704" stroke="#B9BCEB" stroke-width="12" stroke-linecap="round"/><text x="112" y="548" font-size="26" fill="#E3D8F1">Add context or a follow-up prompt here.</text></g><g id="accent-elements"><g stroke="#FFFFFF" stroke-width="8" stroke-linecap="round">
+  <path d="M993 121v56M965 149h56"/><path d="M1041 137v24M1029 149h24"/>
+</g></g>
+</svg>

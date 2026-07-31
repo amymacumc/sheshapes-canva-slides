@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none" aria-label="Woman Coding">
+<g id="background-decoration"><rect x="118" y="126" width="790" height="676" rx="80" fill="#F8EEF0" opacity=".72"/><path d="M157 775h715" stroke="#E3D8F1" stroke-width="20" stroke-linecap="round"/></g>
+      <g id="character"><g id="developer" transform="translate(335 206) scale(0.82 0.82)">
+    <g id="developer-legs" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-48 384c-37 64-69 127-90 194" stroke="#25232A" stroke-width="58"/>
+      <path d="M51 384c83 28 124 89 153 154" stroke="#25232A" stroke-width="58"/>
+      <path d="M-146 584h77M190 545h79" stroke="#25232A" stroke-width="28"/>
+    </g>
+    <g id="developer-body">
+      <path d="M-72.5 150Q0 115 72.5 150l40 238H-101L-72.5 150Z" fill="#42A8F5"/>
+      <path d="M-27 115v31M27 115v31" stroke="#F2C7A5" stroke-width="24"/>
+      <path d="M-64.5 172c-49 46-54 98-21 145" stroke="#F2C7A5" stroke-width="34" stroke-linecap="round"/>
+      <path d="M64.5 171c49 28 70 69 74 113" stroke="#F2C7A5" stroke-width="34" stroke-linecap="round"/>
+      <circle cx="-84.5" cy="320" r="18" fill="#F2C7A5"/><circle cx="138.5" cy="286" r="18" fill="#F2C7A5"/>
+    </g>
+    <g id="developer-head" transform="translate(0 46) scale(1)">
+    <path d="M-69 4c-5-55 26-88 70-88 50 0 78 37 72 96l8 101H42L30 45H-29l-13 68h-37L-69 4Z" fill="#5A382B"/>
+      <path d="M-53-24c17-45 69-54 107-13-28 2-53-9-72-29-6 20-18 34-35 42Z" fill="#5A382B"/>
+    <ellipse cx="2" cy="1" rx="51" ry="63" fill="#F2C7A5"/>
+    <path d="M-49-17c15-48 64-59 103-20-29 0-54-12-73-31-5 21-15 38-30 51Z" fill="#5A382B"/>
+    <g fill="#25232A"><circle cx="-18" cy="5" r="4.5"/><circle cx="24" cy="5" r="4.5"/></g>
+    <path d="M-12 30c10 9 22 9 32 0" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-38 0c9-7 18-7 27-2M14-2c9-5 18-4 26 2" stroke="#5A382B" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  </g></g>
+      <g id="device"><rect x="493" y="332" width="355" height="260" rx="24" fill="#25232A"/><rect x="514" y="368" width="313" height="199" rx="8" fill="#FAF8F1"/><circle cx="531" cy="350" r="6" fill="#C33EE3"/><circle cx="551" cy="350" r="6" fill="#42A8F5"/><path d="M555 416l-35 31 35 31M629 404l-34 90M667 416l35 31-35 31" stroke="#7048C8" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/><path d="M547 524h184M760 524h27" stroke="#B9BCEB" stroke-width="10" stroke-linecap="round"/><path d="M474 592h393l-23 39H497l-23-39Z" fill="#4C4C4C"/></g>
+      <g id="accent-elements"><g stroke="#62DCE8" stroke-width="8" stroke-linecap="round">
+  <path d="M812 213v56M784 241h56"/><path d="M860 229v24M848 241h24"/>
+</g></g>
+</svg>

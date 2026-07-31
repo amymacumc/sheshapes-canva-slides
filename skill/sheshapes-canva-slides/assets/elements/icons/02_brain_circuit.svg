@@ -1,0 +1,3 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none" aria-label="Brain Circuit">
+<g id="icon" fill="none" stroke="#7048C8" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M28 12c-7-5-16 1-15 9-7 2-8 12-2 16-4 8 3 15 10 13 4 6 13 3 13-4V18c0-6-2-8-6-6ZM36 18v28c0 7 9 10 13 4 8 2 14-5 10-13 6-4 5-14-2-16 1-8-8-14-15-9-6-2-6 6-6 6Z"/><path d="M21 25h7v8M43 24h7M43 40h9M18 40h10" stroke="#42A8F5"/><circle cx="21" cy="25" r="2" fill="#42A8F5" stroke="none"/><circle cx="52" cy="40" r="2" fill="#42A8F5" stroke="none"/></g>
+</svg>

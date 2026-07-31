@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" fill="none" aria-label="Woman with Laptop">
+<g id="background-decoration"><ellipse cx="510" cy="874" rx="302" ry="48" fill="#E3D8F1" opacity=".62"/><circle cx="818" cy="172" r="78" fill="#F8EEF0"/></g>
+      <g id="character"><g id="builder" transform="translate(435 188) scale(0.94 0.94)">
+    <g id="builder-legs" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M-48 384c-37 64-69 127-90 194" stroke="#25232A" stroke-width="58"/>
+      <path d="M51 384c83 28 124 89 153 154" stroke="#25232A" stroke-width="58"/>
+      <path d="M-146 584h77M190 545h79" stroke="#25232A" stroke-width="28"/>
+    </g>
+    <g id="builder-body">
+      <path d="M-72.5 150Q0 115 72.5 150l40 238H-101L-72.5 150Z" fill="#7048C8"/>
+      <path d="M-27 115v31M27 115v31" stroke="#C9825F" stroke-width="24"/>
+      <path d="M-64.5 172c-49 46-54 98-21 145" stroke="#C9825F" stroke-width="34" stroke-linecap="round"/>
+      <path d="M64.5 171c49 28 70 69 74 113" stroke="#C9825F" stroke-width="34" stroke-linecap="round"/>
+      <circle cx="-84.5" cy="320" r="18" fill="#C9825F"/><circle cx="138.5" cy="286" r="18" fill="#C9825F"/>
+    </g>
+    <g id="builder-head" transform="translate(0 46) scale(1)">
+    <path d="M-70 6c-7-57 28-93 74-93 51 0 82 38 72 99l-8 55H-58L-70 6Z" fill="#25232A"/>
+      <g fill="#25232A"><circle cx="-52" cy="-46" r="25"/><circle cx="-16" cy="-69" r="27"/><circle cx="25" cy="-68" r="27"/><circle cx="58" cy="-42" r="25"/></g>
+    <ellipse cx="2" cy="1" rx="51" ry="63" fill="#C9825F"/>
+    <path d="M-49-17c15-48 64-59 103-20-29 0-54-12-73-31-5 21-15 38-30 51Z" fill="#25232A"/>
+    <g fill="#25232A"><circle cx="-18" cy="5" r="4.5"/><circle cx="24" cy="5" r="4.5"/></g>
+    <path d="M-12 30c10 9 22 9 32 0" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+    <path d="M-38 0c9-7 18-7 27-2M14-2c9-5 18-4 26 2" stroke="#25232A" stroke-width="4" stroke-linecap="round"/>
+  </g>
+  </g></g>
+      <g id="device"><path d="M434 526h284l-35 205H470l-36-205Z" fill="#25232A"/><path d="M457 546h238l-27 155H484l-27-155Z" fill="#B9BCEB"/><circle cx="576" cy="623" r="13" fill="#62DCE8"/><path d="M399 731h352l-17 31H416l-17-31Z" fill="#4C4C4C"/></g>
+      <g id="accent-elements"><g stroke="#C33EE3" stroke-width="8" stroke-linecap="round">
+  <path d="M760 422v56M732 450h56"/><path d="M808 438v24M796 450h24"/>
+</g><g stroke="#42A8F5" stroke-width="8" stroke-linecap="round">
+  <path d="M302 307v56M274 335h56"/><path d="M350 323v24M338 335h24"/>
+</g></g>
+</svg>
