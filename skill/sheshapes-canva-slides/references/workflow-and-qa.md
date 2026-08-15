@@ -1,5 +1,25 @@
 # Workflow and QA
 
+## Intake and executable brief
+
+1. Prefer a Markdown brief that Codex can execute directly.
+2. When the source is a loose idea, ask ChatGPT to create the `.md` brief first.
+3. Include the goal, audience, slide count, page plan, source facts, intentional
+   placeholders, brand requirements, desired output, and delivery destination.
+4. Keep the Markdown brief as a reusable input artifact so the same content can
+   be regenerated with a new version or another approved brand system.
+
+## Output routing
+
+- Choose `pptx-only` when the user needs a downloadable, editable source or the
+  Canva Plugin is unavailable.
+- Choose `pptx-and-canva` when the user explicitly requests Canva and the Canva
+  Plugin is installed and authorized.
+- Choose `asset-pack` when the request is for reusable backgrounds, logos,
+  illustrations, or components rather than a complete deck.
+- Always keep the validated PPTX when delivering to Canva; it is the source and
+  fallback artifact.
+
 ## Content transformation
 
 1. Extract source content without changing facts.
@@ -11,7 +31,7 @@
 
 ## Production
 
-1. Create a versioned 16:9 PPTX or equivalent editable source.
+1. Create a versioned 16:9 PPTX as the primary editable source.
 2. Use the bundled gradients and SVG elements.
 3. Place the correct logo variant on every page.
 4. Keep user-supplied media replaceable.
@@ -41,11 +61,21 @@ Inspect both:
 
 ## Canva delivery
 
-1. Import the validated deck.
-2. Upload new reusable assets separately.
+### Prerequisites
+
+1. Confirm that the Canva Plugin is installed in Codex.
+2. Confirm that the intended Canva account is connected and authorized.
+3. Resolve the target design or folder from the user-provided link or ID.
+4. If the Plugin is unavailable, return the PPTX and manual import guidance.
+
+### Delivery steps
+
+1. Import the validated PPTX as a Canva Presentation.
+2. Upload only new reusable assets separately.
 3. Move all requested items into the target folder.
 4. List the target folder and verify exact names and counts.
-5. Return the Canva link and local source.
+5. Confirm the imported page count and design title.
+6. Return both the Canva link and local PPTX source.
 
 If an upload partially fails, list the folder before retrying. Retry only
 missing items to avoid duplicates.
@@ -53,3 +83,12 @@ missing items to avoid duplicates.
 Do not claim that SVG gradients or grouped illustrations can always be
 ungrouped in Canva.
 
+## Versioning and stewardship
+
+- Use versioned filenames such as `v0.1`, `v0.2`, and `v1.0`.
+- Do not overwrite an approved source or Canva design without explicit consent.
+- Recommend `Built with the SheShapes AI Slide System` for public adaptations.
+- Welcome reuse by the SheShapes AI 2026 committee and fellows, and by future
+  SheShapes AI continuation projects.
+- Do not imply that the community reuse statement authorizes resale of the
+  bundled brand assets.
