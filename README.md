@@ -9,8 +9,9 @@
 
 本设计系统最初为 **SheShapes AI 2026** 建立，供组委、项目组、课程组、影响力运营组和学员制作活动、课程、项目与社群材料。未来如有新的 SheShapes AI 延续项目，也欢迎继续复用、组合和扩展这些设计元素。
 
-## 推荐工作流
+## 背景：How was this design born?
 
+工作流：
 ```text
 需求或内容
   → 请 ChatGPT 整理成 Codex 可执行的 Markdown brief
@@ -20,10 +21,10 @@
   → 可选：通过 Canva Plugin 导入 Canva
   → 团队继续共创
 ```
-
+该工作流可复用在其他场景的ppt设计。
 如果一开始只有零散想法，可以先让 ChatGPT 按 [`CONTENT_BRIEF_TEMPLATE.md`](CONTENT_BRIEF_TEMPLATE.md) 生成一个 `.md` 文件，再将该文件交给 Codex。建议 brief 至少包含：目标、受众、页数、页面结构、已有内容、待补占位、品牌要求、输出格式和 Canva 目标文件夹。
 
-## 方式一：直接复制提示词
+## 使用方式一：直接复制提示词
 
 打开 [`PROMPT_TEMPLATE.md`](PROMPT_TEMPLATE.md)，填写方括号中的内容，并把完整提示词交给支持生成 PPT/Canva 的 AI 工具。
 
@@ -33,7 +34,7 @@
 - 自己的照片、数据和链接；
 - 如需自定义品牌，附上 Logo 与色板。
 
-## 方式二：安装为 Codex Skill
+## 使用方式二：安装为 Codex Skill
 
 把整个目录：
 
